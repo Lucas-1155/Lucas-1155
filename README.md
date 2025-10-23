@@ -47,13 +47,13 @@
 ### 🌎 Onde me encontrar
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucassoaresfr" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas1155" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:lucassoaresfr@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:lucasdev1155@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
-  <a href="https://github.com/lucassoaresfr">
+  <a href="https://github.com/Lucas-1155">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
