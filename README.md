@@ -53,6 +53,12 @@
   <a href="mailto:lucasdev1155@outlook.com">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
+
+  <!-- fallback: abre o composer do Outlook Web (funciona em qualquer navegador) -->
+  <a href="https://outlook.live.com/owa/?path=/mail/action/compose&to=lucasdev1155@outlook.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Outlook_Web-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Abrir Outlook Web"/>
+  </a>
+
   <a href="https://github.com/Lucas-1155">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
